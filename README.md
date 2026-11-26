@@ -104,6 +104,7 @@ We'd greatly appreciate if you could:
 | [inReels.ai](https://www.inreels.ai) | Create stunning videos in seconds using AI. Turn text, PDFs, or images into videos. Repurpose content for YouTube, TikTok, Reels, and more | **BLACKFRIDAY2026** - 50% off yearly plans | Ends about Dec 1 | ✅ |
 | [SharpAPI](https://sharpapi.com/en/pricing) | AI workflow automation API for product descriptions, resume parsing, job match scoring, SEO tags, and more | **BF2026** - 40% off every plan, valid 12 months | Ends Nov 30 | ✅ |
 | [GoStudio.ai](https://www.gostudio.ai/?ref=greatfrontend) | Create custom, studio-quality AI headshots and branded portraits in minutes—perfect for founders, creators, and professionals who want high-credibility visuals without photoshoots | 30% off | Ends Dec 1 | ✅ |
+| [AtAt](https://atatapp.com/black-friday) | @ for people. @@ for AI. Call in the AI you already use anywhere on Mac, with built-in screenshots, scrolling capture, OCR, clipboard history, selection bar, voice dictation, TabTab, and local Memory | 47% off Lifetime ($89, was $169) and 34% off first year ($39, was $59/yr), applied automatically | Nov 24 - Dec 15 | ✅ |
 
 ## Design kits
 
